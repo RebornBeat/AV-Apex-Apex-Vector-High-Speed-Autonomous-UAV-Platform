@@ -94,28 +94,32 @@ The aircraft utilizes a blended delta-wing body inspired by natural eagle flight
 
 ### ASCII Representation
 
-          F1
-        /    \   
-       /      \	
-  F2  /        \      F3
-  / \/          \    / \
-F4  /   \  /     \  /   \     F5 
-F6 / \  /  \/     \/     \    / \      F7 
- /	\  /     \/	           \/     \  /   \
-/	 \/ 			               \/     \
-/   				                       \
-/     					                        \
-/	 				                        \
- 				 Fin 	                        \
-  		       1     	/----\	     2                          \
-   	       3     /----\    /      \    /----\    4	                 \
-      ___________5     /----\ /      \  /        \  /      \ /----\     6___________\
-                  /----\ /               \/          \/               \ /----\
-	     /                      	                                 \
-	    /      	           	                                  \ 
-	   /      	            					   \			 
-	  /       					                    \
-	 /____________________________________________________________________\
+								     "Line apex":	
+								          F1
+								
+									    /    \   
+                                       /      \	
+                              F2      /	       \      F3
+                              / \    /	        \    / \
+                     F4      /	 \  /	         \  /   \     F5
+           F6	     / \    /	  \/	          \/     \    / \      F7 
+             / \    /   \  /	 	                      \  /   \    / \
+            /	\  /     \/		                           \/     \  /   \
+           /	 \/ 			                                   \/     \
+          /   				                                               \
+         /     				                                                \
+        /     					                                             \
+       /	 				                                                  \
+      / 				                Fin 	                               \
+     /  		              1     	/----\	     2                          \
+    /   	           3     /----\    /      \    /----\    4	                 \
+   /___________5     /----\ /      \  /        \  /      \ /----\     6___________\
+             /----\ /               \/          \/               \ /----\
+			/                      	                                     \
+		   /      	           	                                          \ 
+		  /      	            					                       \			 
+		 /       					                                        \   
+		/____________________________________________________________________\      
 
 * **The Apex Line:** A structural ridge running from the nose to the tail, culminating in a static central fin.
 * **Internal Layout:** 100% of the internal fuselage volume is allocated to fuel storage. 
